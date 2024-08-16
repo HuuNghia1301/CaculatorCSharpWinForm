@@ -12,11 +12,6 @@ namespace Caculator
 {
     public partial class Form1 : Form
     {
-        // Khai báo biến toàn cục để lưu trạng thái và kích thước
-        private bool isExpanded = false;
-        private Size originalSize;
-        private Size expandedSize = new Size(800, 600); // Kích thước mở rộng mong muốn
-
         public Form1()
         {
             InitializeComponent();
