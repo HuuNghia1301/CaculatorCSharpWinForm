@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\ASUS\source\repos\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\ASUS\source\repos\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\ASUS\source\repos\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+C:\Users\ASUS\source\repos\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\ASUS\source\repos\Caculator\Caculator\obj\Debug\Caculator.pdb
